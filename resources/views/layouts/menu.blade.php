@@ -9,7 +9,7 @@
 </head>
 <body>
     
-    <nav class="cyan">
+    <nav class="teal lighten-2">
         <div class="nav-wrapp">
         <a href="#" class="brand-logo">Logo</a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">

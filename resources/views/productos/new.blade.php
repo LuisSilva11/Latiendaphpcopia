@@ -3,7 +3,7 @@
 @section('contenido')
 
 <div class="row">
-    <h1 class="deep-purple-text text-darken-1">
+    <h1 class="teal-text text-darken-2">
         Nuevo producto 
     </h1>
 </div>
@@ -81,8 +81,8 @@
             </div>
         </div>
         <div class="row">
-            <div class="file-field input-field col s8">
-                <div class="btn">
+            <div class="file-field input-field col s8 ">
+                <div class="btn teal lighten-2">
                     <span>Imagen...</span>
                     <input type="file" name="imagen">
                 </div>
@@ -93,7 +93,7 @@
             </div>
         </div>
         <div class="row">
-            <button class="btn waves-effect waves-light  col s8" 
+            <button class="btn waves-effect teal lighten-2  col s8" 
                     type="submit" 
                     name="action">Guardar
              </button>
